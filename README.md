@@ -12,7 +12,7 @@ Durante esta clase, usted aprenderá:
 
 Estas son las actividades que se completan en esta clase. Si te quedas atascado o tiene alguna pregunta, por favor consulte los documentos vinculados aquí para obtener más información.
 
-1. Opina sobre [el tema](https://github.com/certify/template-everyone/issues/1) con una cosa que usted está esperando para aprender en el entrenamiento de hoy.
+1. Opina sobre [el tema](https://github.com/certify/template-everyone/issues/1) con una cosa que usted está esperando para aprender en la clase de hoy.
 2. Crear una cuestión de añadir su biografía en la página de clase.[Instructiones](https://github.com/certify/template-everyone/blob/master/instructions/create-issue.md)
 3. Añadir una biografía en la página de clase. [Instructiones](https://github.com/certify/template-everyone/blob/master/instructions/add-file-on-github.md)
 4. Opina sobre una solicitud de extracción.
