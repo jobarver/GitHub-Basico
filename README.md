@@ -4,7 +4,7 @@ GITHUB BASICO
 ## Objetivos de la Clase
 
 Durante esta clase, usted aprenderá:
-- ¿Cómo trabajan juntos git y GitHub para controlarversiónes de sus proyectos.
+- ¿Cómo trabajan juntos git y GitHub para controlar versiónes de sus proyectos?
 - Una línea de información básica sobre la forma en GitHub permite la colaboración dentro de su equipo de trabajo.
 - Cómo usar la plataforma GitHub y las aplicaciones de escritorio GitHub.
 
@@ -15,7 +15,7 @@ Estas son las actividades que se completan en esta clase. Si te quedas atascado 
 1. Opina sobre [el tema](https://github.com/certify/template-everyone/issues/1) con una cosa que usted está esperando para aprender en la clase de hoy.
 2. Crear una cuestión de añadir su biografía en la página de clase.[Instrucciones](https://github.com/certify/template-everyone/blob/master/instructions/create-issue.md)
 3. Añadir una biografía en la página de clase. [Instrucciones](https://github.com/certify/template-everyone/blob/master/instructions/add-file-on-github.md)
-4. Opina sobre una solicitud de extracción.
+4. Opine sobre una solicitud de extracción.
 5. Realice un cambio en su biografía en el sitio de clase. [Instrucciones](https://github.com/certify/template-everyone/blob/master/instructions/changing-files-on-GitHub.md)
 6. Combinar su solicitud de extracción. [Instrucciones](https://github.com/certify/template-everyone/blob/master/instructions/merge-your-pull-request.md)
 7. Bifurca este repositorio.
