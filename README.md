@@ -12,7 +12,7 @@ Durante esta clase, usted aprenderá:
 
 Estas son las actividades que se completan en esta clase. Si te quedas atascado o tiene alguna pregunta, por favor consulte los documentos vinculados aquí para obtener más información.
 
-1. Opinar sobre [el tema]() con una cosa que usted está esperando para aprender en la clase de hoy.
+1. Opinar sobre [el tema](https://github.com/jobarver/GitHub-Basico/issues/1) con una cosa que usted está esperando para aprender en la clase de hoy.
 2. Crear una publicación para añadir a su biografía en la página WEB de la clase.[Instrucciones](https://github.com/jobarver/GitHub-Basico/blob/master/instrucciones/archivo-en-git-hub.md)
 3. Añadir una publicación de biografía en la página de clase. [Instrucciones](https://github.com/jobarver/GitHub-Basico/blob/master/instrucciones/crear-nuevo-problema.md)
 4. Opinar sobre una solicitud de extracción.
