@@ -12,8 +12,8 @@ Durante esta clase, usted aprenderá:
 
 Estas son las actividades que se completan en esta clase. Si te quedas atascado o tiene alguna pregunta, por favor consulte los documentos vinculados aquí para obtener más información.
 
-1. Opinar sobre [el tema](https://github.com/certify/template-everyone/issues/1) con una cosa que usted está esperando para aprender en la clase de hoy.
-2. Crear una cuestión de añadir su biografía en la página de clase.[Instrucciones](https://github.com/certify/template-everyone/blob/master/instructions/create-issue.md)
+1. Opinar sobre [el tema](https://github.com/jobarver/GitHub-Basico/blob/master/instrucciones/crear-nuevo-problema.md) con una cosa que usted está esperando para aprender en la clase de hoy.
+2. Crear una publicaión para añadir a su biografía en la página WEB de la clase.[Instrucciones](https://github.com/certify/template-everyone/blob/master/instructions/create-issue.md)
 3. Añadir una biografía en la página de clase. [Instrucciones](https://github.com/jobarver/GitHub-Basico/blob/master/instrucciones/archivo-en-git-hub.md)
 4. Opinar sobre una solicitud de extracción.
 5. Realizar un cambio en su biografía en el sitio de clase. [Instrucciones](https://github.com/certify/template-everyone/blob/master/instructions/changing-files-on-GitHub.md)
